@@ -8,7 +8,7 @@ var numLocation;
 var mySound;
 
 function preload() {
-    mySound = loadSound("../sounds/Copycatt_Affection.mp3");
+    mySound = loadSound("../sound/Copycatt_Affection.mp3");
 }
 
 function setup() {
